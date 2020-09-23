@@ -1,0 +1,27 @@
+{
+  "name": "csv-validator-poc",
+  "version": "1.0.0",
+  "description": "Validate a csv ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prahaladbelavadi/csv-validator.git"
+  },
+  "keywords": [
+    "Node",
+    "csv",
+    "validator"
+  ],
+  "author": "Prahalad Belavadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prahaladbelavadi/csv-validator/issues"
+  },
+  "homepage": "https://github.com/prahaladbelavadi/csv-validator#readme",
+  "dependencies": {
+    "csv-validator": "0.0.3"
+  }
+}
